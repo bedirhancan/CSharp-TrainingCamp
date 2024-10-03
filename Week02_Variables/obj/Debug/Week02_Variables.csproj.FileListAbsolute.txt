@@ -1,0 +1,7 @@
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week02_Variables\bin\Debug\Week02_Variables.exe.config
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week02_Variables\bin\Debug\Week02_Variables.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week02_Variables\bin\Debug\Week02_Variables.pdb
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week02_Variables\obj\Debug\Week02_Variables.csproj.AssemblyReference.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week02_Variables\obj\Debug\Week02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week02_Variables\obj\Debug\Week02_Variables.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week02_Variables\obj\Debug\Week02_Variables.pdb
