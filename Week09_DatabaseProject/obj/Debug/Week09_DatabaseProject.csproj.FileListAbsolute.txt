@@ -1,0 +1,7 @@
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week09_DatabaseProject\bin\Debug\Week09_DatabaseProject.exe.config
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week09_DatabaseProject\bin\Debug\Week09_DatabaseProject.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week09_DatabaseProject\bin\Debug\Week09_DatabaseProject.pdb
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week09_DatabaseProject\obj\Debug\Week09_DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week09_DatabaseProject\obj\Debug\Week09_DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week09_DatabaseProject\obj\Debug\Week09_DatabaseProject.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week09_DatabaseProject\obj\Debug\Week09_DatabaseProject.pdb
