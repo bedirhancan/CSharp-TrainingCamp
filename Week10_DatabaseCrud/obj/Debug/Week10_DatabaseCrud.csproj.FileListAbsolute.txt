@@ -1,0 +1,7 @@
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week10_DatabaseCrud\bin\Debug\Week10_DatabaseCrud.exe.config
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week10_DatabaseCrud\bin\Debug\Week10_DatabaseCrud.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week10_DatabaseCrud\bin\Debug\Week10_DatabaseCrud.pdb
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week10_DatabaseCrud\obj\Debug\Week10_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week10_DatabaseCrud\obj\Debug\Week10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week10_DatabaseCrud\obj\Debug\Week10_DatabaseCrud.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week10_DatabaseCrud\obj\Debug\Week10_DatabaseCrud.pdb
