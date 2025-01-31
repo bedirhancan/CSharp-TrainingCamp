@@ -12,7 +12,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Abstract
         T GetById(int id);
         void Add(T entity);
         void Update(T entity);
-        void Delete(int id);
+        void Delete(T entity);
 
 
     }

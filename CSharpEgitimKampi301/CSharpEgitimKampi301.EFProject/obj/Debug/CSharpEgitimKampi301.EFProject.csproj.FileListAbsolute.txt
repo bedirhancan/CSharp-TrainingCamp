@@ -13,3 +13,5 @@ C:\Users\MSI\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\ob
 C:\Users\MSI\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEg.14093BF7.Up2Date
 C:\Users\MSI\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
 C:\Users\MSI\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
+C:\Users\MSI\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.LocationForm.resources
+C:\Users\MSI\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.StatisticsForm.resources
