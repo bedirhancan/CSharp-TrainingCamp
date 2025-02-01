@@ -11,8 +11,15 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Repositories
 {
     public class GenericRepository<T> : IGenericDal<T> where T : class
     {
-        KampContext context = new KampContext();
+        private readonly KampContext context;
         private readonly DbSet<T> _object;
+
+        public GenericRepository()
+        {
+            context = new KampContext();
+            _object = context.Set<T>();
+        }
+
         public void Add(T entity)
         {
             var addedEntity = context.Entry(entity);
@@ -45,3 +52,4 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Repositories
         }
     }
 }
+
