@@ -1,0 +1,14 @@
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\bin\Debug\net6.0\Week03_MakingDecision.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\bin\Debug\net6.0\Week03_MakingDecision.deps.json
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\bin\Debug\net6.0\Week03_MakingDecision.runtimeconfig.json
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\bin\Debug\net6.0\Week03_MakingDecision.dll
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\bin\Debug\net6.0\Week03_MakingDecision.pdb
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\Week03_MakingDecision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\Week03_MakingDecision.AssemblyInfoInputs.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\Week03_MakingDecision.AssemblyInfo.cs
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\Week03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\Week03_MakingDecision.dll
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\refint\Week03_MakingDecision.dll
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\Week03_MakingDecision.pdb
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\Week03_MakingDecision.genruntimeconfig.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week03_MakingDecision\obj\Debug\net6.0\ref\Week03_MakingDecision.dll

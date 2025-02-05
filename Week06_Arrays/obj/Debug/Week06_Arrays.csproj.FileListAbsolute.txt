@@ -1,7 +1,0 @@
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week06_Arrays\bin\Debug\Week06_Arrays.exe.config
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week06_Arrays\bin\Debug\Week06_Arrays.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week06_Arrays\bin\Debug\Week06_Arrays.pdb
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week06_Arrays\obj\Debug\Week06_Arrays.csproj.AssemblyReference.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week06_Arrays\obj\Debug\Week06_Arrays.csproj.CoreCompileInputs.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week06_Arrays\obj\Debug\Week06_Arrays.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week06_Arrays\obj\Debug\Week06_Arrays.pdb

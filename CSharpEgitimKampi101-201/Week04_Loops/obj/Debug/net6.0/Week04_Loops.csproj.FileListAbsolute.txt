@@ -1,0 +1,14 @@
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\bin\Debug\net6.0\Week04_Loops.exe
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\bin\Debug\net6.0\Week04_Loops.deps.json
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\bin\Debug\net6.0\Week04_Loops.runtimeconfig.json
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\bin\Debug\net6.0\Week04_Loops.dll
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\bin\Debug\net6.0\Week04_Loops.pdb
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\Week04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\Week04_Loops.AssemblyInfoInputs.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\Week04_Loops.AssemblyInfo.cs
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\Week04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\Week04_Loops.dll
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\refint\Week04_Loops.dll
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\Week04_Loops.pdb
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\Week04_Loops.genruntimeconfig.cache
+C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week04_Loops\obj\Debug\net6.0\ref\Week04_Loops.dll

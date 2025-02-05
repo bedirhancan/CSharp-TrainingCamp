@@ -1,7 +1,0 @@
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week01_MainSubjects\bin\Debug\Week01_MainSubjects.exe.config
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week01_MainSubjects\bin\Debug\Week01_MainSubjects.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week01_MainSubjects\bin\Debug\Week01_MainSubjects.pdb
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week01_MainSubjects\obj\Debug\Week01_MainSubjects.csproj.AssemblyReference.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week01_MainSubjects\obj\Debug\Week01_MainSubjects.csproj.CoreCompileInputs.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week01_MainSubjects\obj\Debug\Week01_MainSubjects.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week01_MainSubjects\obj\Debug\Week01_MainSubjects.pdb

@@ -1,7 +1,0 @@
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week07_ForeachLoop\bin\Debug\Week07_ForeachLoop.exe.config
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week07_ForeachLoop\bin\Debug\Week07_ForeachLoop.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week07_ForeachLoop\bin\Debug\Week07_ForeachLoop.pdb
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week07_ForeachLoop\obj\Debug\Week07_ForeachLoop.csproj.AssemblyReference.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week07_ForeachLoop\obj\Debug\Week07_ForeachLoop.csproj.CoreCompileInputs.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week07_ForeachLoop\obj\Debug\Week07_ForeachLoop.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week07_ForeachLoop\obj\Debug\Week07_ForeachLoop.pdb
