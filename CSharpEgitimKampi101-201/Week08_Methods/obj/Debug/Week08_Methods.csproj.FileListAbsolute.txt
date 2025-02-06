@@ -1,7 +1,0 @@
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week08_Methods\bin\Debug\Week08_Methods.exe.config
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week08_Methods\bin\Debug\Week08_Methods.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week08_Methods\bin\Debug\Week08_Methods.pdb
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week08_Methods\obj\Debug\Week08_Methods.csproj.AssemblyReference.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week08_Methods\obj\Debug\Week08_Methods.csproj.CoreCompileInputs.cache
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week08_Methods\obj\Debug\Week08_Methods.exe
-C:\Users\Bedirhan\source\repos\CSharpEgitimKampi\Week08_Methods\obj\Debug\Week08_Methods.pdb
